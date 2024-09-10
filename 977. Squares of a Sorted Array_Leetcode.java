@@ -1,8 +1,5 @@
 /*
 Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
-
- 
-
 Example 1:
 
 Input: nums = [-4,-1,0,3,10]
@@ -19,7 +16,7 @@ Constraints:
 
 1 <= nums.length <= 104
 -104 <= nums[i] <= 104
-nums is sorted in non-decreasing order.
+
 */
 
 class Solution {
