@@ -1,6 +1,4 @@
-/*
-Question 3
-Input: 6
+/* Question 3 -- Input: 6
 Output:
                 1
               2 4
@@ -8,9 +6,7 @@ Output:
         6 8 10 12
     9 11 13 15 17
 14 16 18 20 22 24
-
 */
-
 import java.util.Scanner;
 
 public class Pattern3 {
@@ -28,8 +24,7 @@ public class Pattern3 {
                     }else{
                         System.out.printf("%" + maxWidth + "d", b);
                         b+=2;
-                    }
-                        
+                    }    
                 }else{
                     System.out.print(" ".repeat(maxWidth));
                 }
