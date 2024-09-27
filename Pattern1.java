@@ -1,13 +1,10 @@
-/*
-Question 1
-Input: 5
+/*   Question 1--Input: 5
 Output:
 12345
 23451
 34512
 45123
-51234
-*/
+51234  */
 import java.util.*;
 public class Pattern1 {
     public static void main(String[] args) {
